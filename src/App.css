@@ -65,7 +65,7 @@
 
 #calculation {
   position: fixed;
-  top: 170px;
+  top: 145px;
   padding: 10px 0 5px 5px;
   font-size: 30px;
   font-weight: 400;
@@ -81,8 +81,8 @@
   margin: 15px 10px;
 
   display: grid;
-  grid-template-columns: repeat(4, 80px);
-  grid-template-rows: repeat(5, 80px);
+  grid-template-columns: repeat(4, 70px);
+  grid-template-rows: repeat(5, 70px);
   gap: 17px 20px;
   justify-content: center;
 }
@@ -94,8 +94,8 @@
 }
 
 button {
-  height: 80px;
-  width: 80px;
+  height: 70px;
+  width: 70px;
 
   font-size: 20px;
   font-weight: 500;

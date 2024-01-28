@@ -224,7 +224,7 @@ export const Calculator = () => {
   // `);
 
   return (
-    <div className="calculator">
+    <div className="container calculator">
       <Display screen={screen} result={result} />
       <Buttons
         handleDigitClick={handleDigitClick}
